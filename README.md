@@ -1,4 +1,6 @@
 # unsupervised-learning-eval
+Evaluations of various Unsupervised Learning models and Dimension Reduction Techniques
+Includes: K-Means, Expectation Maximization, Principal Component Analysis (PCA), Independent Component Analysis (ICA)
 
 Packages Used
 - Pandas
